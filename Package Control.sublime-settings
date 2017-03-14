@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"PHP Companion",
+		"phpfmt",
+		"SFTP",
+		"SideBarEnhancements",
+		"sublime-github",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Terminal",
+		"Terminal In Packages",
+		"Terminality",
+		"Theme - Spacegray",
+		"TrailingSpaces"
+	]
+}
